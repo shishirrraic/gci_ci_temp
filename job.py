@@ -7,4 +7,4 @@ print("now =", now)
 # dd/mm/YY H:M:S
 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 print("date and time is =", dt_string)
-print("date and time is it is it asdf asdf asdfasdf asdaf asdf=", dt_string)
+print("date and time is it is it asdf asdf asdfasdf asdaf asdf asdf=", dt_string)
