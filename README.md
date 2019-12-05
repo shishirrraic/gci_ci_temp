@@ -1,1 +1,1 @@
-# This repository contains an simple python script.
+# This repository contains a simple python script.
